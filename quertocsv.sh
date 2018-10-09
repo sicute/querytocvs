@@ -1,4 +1,7 @@
 #!/bin/bash
+########
+# This for mysql running in localhost without password and user root
+#########
 db="mysql"
 hst="localhost"
 usr="root"
